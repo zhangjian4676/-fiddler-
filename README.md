@@ -6,3 +6,4 @@ Fiddler是通过改写HTTP代理，让数据从它那通过，来监控并且截
 
 ![代理设置](https://im-1302325494.cos.ap-nanjing.myqcloud.com/github/626593-20160118234154922-335265309.png)
 
+![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
