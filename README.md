@@ -1,9 +1,6 @@
 ## 说明
-Fiddler抓包工具总结。
-Fiddler 下载地址 ：https://www.telerik.com/download/fiddler
-## 1. Fiddler 抓包简介
-Fiddler是通过改写HTTP代理，让数据从它那通过，来监控并且截取到数据。当然Fiddler很屌，在打开它的那一瞬间，它就已经设置好了浏览器的代理了。当你关闭的时候，它又帮你把代理还原了，是不是很贴心。。。
-
-![代理设置](https://im-1302325494.cos.ap-nanjing.myqcloud.com/github/626593-20160118234154922-335265309.png)
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
+转载于:https://www.cnblogs.com/yyhh/p/5140852.html
+## Fiddler抓包工具注意点。
+## 1）手机须连接电脑开启的热点。
+## 2）手机端设置代理时选择无线网卡的IP。
+## 3）关闭电脑端防火墙。
